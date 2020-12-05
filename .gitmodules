@@ -1,0 +1,3 @@
+[submodule "ecommerce-spring"]
+	path = ecommerce-spring
+	url = https://github.com/fpeluso/ecommerce-spring.git
