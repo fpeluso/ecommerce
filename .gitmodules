@@ -1,3 +1,6 @@
 [submodule "ecommerce-spring"]
 	path = ecommerce-spring
 	url = https://github.com/fpeluso/ecommerce-spring.git
+[submodule "ecommerce-ng"]
+	path = ecommerce-ng
+	url = https://github.com/fpeluso/ecommerce-ng.git
