@@ -4,3 +4,6 @@
 [submodule "ecommerce-ng"]
 	path = ecommerce-ng
 	url = https://github.com/fpeluso/ecommerce-ng.git
+[submodule "spring-maven-kotlin"]
+	path = spring-maven-kotlin
+	url = https://github.com/fpeluso/spring-maven-kotlin.git
